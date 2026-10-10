@@ -72,8 +72,10 @@ header p {
 
 video {
   grid-area: video;
-  width: 100%;
+  width: 80%;
   border: 1px solid black;
+  
+  
 }
 
 /* image floats */
@@ -88,4 +90,9 @@ figure {
 
 figcaption {
   font-size: 0.6em;
+}
+
+img{
+    background: yellow
+    
 }
